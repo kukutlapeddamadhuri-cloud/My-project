@@ -1,4 +1,4 @@
 # My-project
 This is my first project
 </br>
-Author - pedda akka (madhuri)
+Author - N Navadeep (Nikkala)

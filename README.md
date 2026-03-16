@@ -1,4 +1,5 @@
 # My-project
 This is my first project
 </br>
-Author - N Navadeep (Nikkala)
+Author (Amrutha)
+Panda Annayya (Bharath)
